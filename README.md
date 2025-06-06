@@ -1,14 +1,7 @@
 # CBIO312-PROJECT
 
-Absolutely! Here's a **professional and comprehensive `README.md` file** for your project. It explains the structure, setup, and usage of your virtual Mini-HPC and Hybrid HPC-Big Data clusters.
-
----
-
-# Mini-HPC and Hybrid HPC-Big Data Clusters
-
-This repository contains all files and instructions related to the student project:  
 **"Mini-HPC and Hybrid HPC-Big Data Clusters"**, developed as part of the **CBIO312 - High Performance Computing (HPC)** course.
-
+PRESENTATION LINK: 
 ---
 
 ## Project Overview
