@@ -2,7 +2,7 @@
 
 **"Mini-HPC and Hybrid HPC-Big Data Clusters"**, developed as part of the **CBIO312 - High Performance Computing (HPC)** course.
 
-PRESENTATION LINK: 
+PRESENTATION LINK: https://nileuniversity-my.sharepoint.com/:v:/g/personal/m_haitham2296_nu_edu_eg/EVnjs_htgjlPufc07EtMH2wBVsXj7WCTKrIRmYiqLNtAXQ?e=peUDZn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ---
 
 ## Project Overview
